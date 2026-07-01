@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6c0197/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0197/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若波羅蜜多心經還源述
+  identifiers:
+    krp: KR6c0197
+    cbeta: T85n2746
+    cbeta_old_id: T85n2746
+    authorityid: CA0004765
+    json_key: T2746
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2746.xml
+    old_id: T85n2746
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0197_000-T.yaml, hash: 'sha256:0289332a3ed8d4622cf664d7673f8d462854315df7c0cd0f3874e318db4b5da3'}
+  - {seq: 1, filename: KR6c0197_001-T.yaml, hash: 'sha256:8c5279ce892ce830948f372c6e161819ec23cda7e7f4aee5f0c725a6bfc856e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0197_000-T.markers.yaml, hash: 'sha256:3a949b38669b1c7063101604b38e527675bd2714e7db40f2e4d430946d22582a'}
+  - {seq: 1, role: markers, filename: assets/KR6c0197_001-T.markers.yaml, hash: 'sha256:2b3dc626f6340964943f4c5d787f4e3ad14917bdbedf154cef025d53c7e5d992'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0197_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2275
+  label: 般若波羅蜜多心經還源述一卷
+  type: juan
+  level: 1
+hash: sha256:2dbc5f375bbffdb6b31d8c0469749ed9a18462826937e9c9626764abf7d40fff
