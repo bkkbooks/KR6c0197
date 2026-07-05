@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6c0197_000.yaml, hash: 'sha256:0289332a3ed8d4622cf664d7673f8d462854315df7c0cd0f3874e318db4b5da3'}
-  - {seq: 1, filename: KR6c0197_001.yaml, hash: 'sha256:9a7e17795e45afc9135c99144b7bff2dcdac328b780894d65a3b77cda09f1a2d'}
+  - {seq: 1, filename: KR6c0197_001.yaml, hash: 'sha256:8c5279ce892ce830948f372c6e161819ec23cda7e7f4aee5f0c725a6bfc856e0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0197_001.markers.yaml, hash: 'sha256:26138f727cf57ec2d367f830d973bbb0872ea85779c04e3316aa212b2f9cc4a7'}
+  - {seq: 0, role: markers, filename: assets/KR6c0197_000.markers.yaml, hash: 'sha256:c0071cfd1d049b72250d924d6efe457b96c4089989e0301bdd314f43bfa8695d'}
+  - {seq: 1, role: markers, filename: assets/KR6c0197_001.markers.yaml, hash: 'sha256:1f29ddea6e0cacbc2b56fb2a79e9343ac47e51e1cf3b6c33ba4e35762caa3083'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 般若波羅蜜多心經還源述一卷
   type: juan
   level: 1
-hash: sha256:fe22d1b03241a6a13b0a50d34e9543208135a054e0d0314f77b46940a1b3cebc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:88dfa04c25f2ac9c1fb549804bbe3dfd33d84a9ef42b072cd235b99e70b5641d
 editions:
 - short: T
